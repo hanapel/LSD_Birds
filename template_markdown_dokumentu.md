@@ -48,7 +48,7 @@ WHERE
    1. 1
    2. xxx
 
-Psáno **tlustě** *šikmo* _taky tlustě a *navíc šikmo*_
+Psáno **tlustě** *šikmo* __taky tlustě a *navíc šikmo*__
 
 ukrad sem to [vocaď](https://guides.github.com/features/mastering-markdown/)
 
