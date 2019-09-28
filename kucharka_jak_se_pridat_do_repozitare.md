@@ -8,7 +8,7 @@ k sobě na disk příkazem
 
 potom úpravu přidám
 
-`git add upravený-soubor`
+D
 
 přidávat mohu opakovaně
 
@@ -18,6 +18,7 @@ co je v aktuální změně prohlédnu
 
 úpravy u sebe potvrdím
 
+
 `git commit -m "nějaká zpráva"`
 
 a pošlu zpátky
@@ -26,3 +27,5 @@ a pošlu zpátky
 
 V případě, že mi to někdo mezi tím změnil získám změny pomocí `git fetch` a
 ymergeuju je sv7mi ym2nami
+
+neco jsem upravila
