@@ -2,6 +2,3 @@
 > nemusíte dolovat z paměti.
 > Navrhuju udělat adresářovou strukturu po sprintech.
 
-taky zkousim neco napsat a souhlasim:) H
-
-výborně
