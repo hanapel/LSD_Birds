@@ -1,0 +1,16 @@
+﻿zpracovaný 1 druh
+
+select                                                                          
+                                                                                
+to_json(array_agg(vzd))                                                         
+from podklady.vzorek_lsd                                                        
+LEFT JOIN LATERAL (                                                             
+   SELECT                                                                       
+   ST_Distance(geom_spec_jtsk, wkb_geometry) vzd                                
+   FROM podklady.budovy b                                                       
+   WHERE ST_DWithin(geom_spec_jtsk, wkb_geometry, 1000)                         
+   ORDER BY ST_Distance(geom_spec_jtsk, wkb_geometry)                           
+   LIMIT 1                                                                      
+) budova                                                                        
+ON True                                                                         
+where id_species = 852;
