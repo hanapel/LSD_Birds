@@ -1,0 +1,7 @@
+Cassi Pelikán, Hana, Herová, Zdenka & Michálek, Jan. Blog. Liniové sčítání ptačích druhů (LSD) v České republice [online]. Vytvořeno v rámci Digitální akademie Czechitas, 2019 [Cit. 23. 11. 2019]. Dostupné z: https://medium.com/@cassipelikan/80b89b7c10ec
+
+Aktuální kontakt na hlavní autorku: zdenkaherova@gmail.com
+
+Abstrakt obsahu publikovaného výstupu: Ve studentském projektu zpracovávaném v rámci Digitální akademie Czechitas jsme se zaměřili na analýzu databáze liniového sčítání druhů České společnosti ornitologické (ČSO). Jedná se o dataset obsahující >70tis. položek, který zachycuje polohu výskytu různých ptačích druhů na území České republiky a zaznamenává některá jejich specifika (např. teritorialitu, místo hnízdění apod.). Konsolidovaná vrstva ekosystémů a krajiny byla použita jako podkladová vrstva v QGIS při analýze závislosti výskytu ptáků na vlastnostech prostředí. 
+
+Stručný popis dosaženého výsledku: Výsledkem projektu je zobrazení výsledků analýzy výskytu nejčastějších druhů ptáků v závislosti na typu prostředí. Výsledky jsou zobrazeny v grafech za použití nástrojů Python Matplotlib, Tableau a QGIS. K dosažení výsledků byla použita Konsolidovaná vrstva ekosystémů.
