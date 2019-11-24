@@ -1,3 +1,9 @@
+CREATE TYPE ptaci_reky AS (
+   id_species int
+   , speciesnameczech varchar
+   , vzd_1 float
+);
+
 WITH cetne AS (
    SELECT id_species
    FROM podklady.vzorek_lsd
